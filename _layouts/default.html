@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "es" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | relative_url }}"></script>
+    <script src="{{'/assets/js/random-phrase.js' | relative_url }}"></script>
+    <script src="{{'/assets/js/side-nav.js' | relative_url }}"></script>
+
+  </body>
+
+</html>

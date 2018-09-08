@@ -1,0 +1,10 @@
+$main-color: #18191d;
+$secondary-color: #808391;
+$complementary-color: #2f3033;
+$link-color:                white;
+$link-decoration:           none !default;
+$link-hover-color:          darken($link-color, 15%) !default;
+$link-hover-decoration:     underline !default;
+
+$body-bg: $main-color;
+@import "../node_modules/bootstrap/scss/variables";
