@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<!-- <style>
+  .container.home {
+    position: relative;
+  }
+  .background-img {
+    background: linear-gradient(rgba(0, 0, 0, 0.45),rgba(0, 0, 0, 0.45)) , url('{{ page.featured-image }}');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    min-height: 200px;
+  }
+</style>
+
+
+<div class="background-img"></div> -->
+
+<style>
+.caca {
+  background: url('') no-repeat center center;
+  background-size: cover;
+}
+</style>
+<div class="container home">
+  <div class="row category-header">
+    <div class="col-12">
+      <h1 class="text-white text-uppercase">{{ page.title | escape }}</h1>
+    </div>
+  </div>
+  <div class="row post-content">
+    <div class="col-12 text-white">
+      {% assign sorted-posts = site.posts | where: "categories",page.category-filter[0] %}
+      <div class="post-list content">
+        {% for post in sorted-posts %}
+          <div class="row">
+            <a class="col-12 col-md-3" href="{{ post.url }}">
+              <div class="featured-img" style="background-image: url('{{ post.featured-image }}');" ></div>
+            </a>
+            <div class="col-12 col-md-9 text-content">
+              <div class="sub-category text-gray">{{ post.top-text }}</div>
+              <h2>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h2>
+              <p>{{ post.content | strip_html | truncatewords: 50 }} <a class="read-more text-gray" href="featured-image">Leer más</a></p>
+              <div class="author">
+                <img class="rounded-circle" src="/assets/img/profile-image.png" alt="Profile image"> by Albert Álvarez
+              </div>
+            </div>
+          </div>
+        {% else %}
+        <p>Siento decirte que aún no hay nada en este episodio... Vuelve más adelante.</p>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

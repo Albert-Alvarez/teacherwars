@@ -1,0 +1,83 @@
+---
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+  <style>
+  .flex-container {
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -webkit-flex;     /* NEW - Chrome */
+    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+    min-height:100vh;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .flex-item {
+    margin: auto;  
+  }
+  </style>
+  <body>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper flex-container">
+        <div class="flex-item">
+          <div class="player-container">
+            <div id="player"></div>
+          </div>            
+          <div class="text-center">
+            <a href="/home">Ir directamente a la página</a> 
+          </div>
+        </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script>
+      var tag = document.createElement('script');
+      var w = window.innerWidth - 10;
+      w = Math.min(w, 640);
+      var ratio = 640 / w;
+      var h = 360 / ratio;
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: h,
+          width: w,
+          videoId: 'M7lc1UVf-VE',
+          playerVars: {
+            'showinfo': 0
+          },
+          events: {
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.ENDED) {
+          window.location.href = '/home';
+        }
+        if (event.data == YT.PlayerState.PLAYING) {
+          
+        }
+      }
+
+      window.addEventListener("resize", function(){
+        w = Math.min(window.innerWidth-60, 640); 
+        ratio = 640 / w;
+        h = 360 / ratio;
+        player.setSize(w, h);
+      });
+
+    </script>
+  </body>
+</html>
