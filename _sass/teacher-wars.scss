@@ -365,3 +365,29 @@ body {
     }
   }
 }
+
+.read-more {
+  text-align: right;
+}
+
+.post-content {
+  padding: 25px;
+  a {
+    font-weight: bold;
+    color: rgb(50, 40, 165);
+    text-decoration: underline;
+    &:hover {
+      color: blue;
+    }
+  }
+  .fig-caption {
+    color: dimgray;
+    font-style: italic;
+    font-size: 14px;
+  }
+  & > .maxw {
+    line-height: 30px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+}

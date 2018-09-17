@@ -22,12 +22,12 @@ layout: default
 
 <div class="background-img"></div> -->
 
-<style>
+<!-- <style>
 .caca {
   background: url('') no-repeat center center;
   background-size: cover;
 }
-</style>
+</style> -->
 <div class="container home">
   <div class="row category-header">
     <div class="col-12">
@@ -48,9 +48,12 @@ layout: default
               <h2>
                 <a href="{{ post.url }}">{{ post.title }}</a>
               </h2>
-              <p>{{ post.content | strip_html | truncatewords: 50 }} <a class="read-more text-gray" href="featured-image">Leer más</a></p>
+              {{ post.excerpt }}
+              <div style="read-more">
+                <a class="read-more text-gray" href="{{ post.url | relative_url }}">Leer más</a>
+              </div>
               <div class="author">
-                <img class="rounded-circle" src="/assets/img/profile-image.png" alt="Profile image"> by Albert Álvarez
+                <img class="rounded-circle" src="/assets/img/profile-image.png" alt="Profile image"> por Albert Álvarez
               </div>
             </div>
           </div>
