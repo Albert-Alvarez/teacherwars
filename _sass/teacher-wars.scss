@@ -109,10 +109,15 @@ footer {
 
 .espisode-logo-selector div {
   overflow: hidden;
+  position: relative;
 }
 
 .espisode-logo-selector {
   margin-bottom: 30px;
+  .logo-featured {
+    top: 0;
+    left: 0;
+  }
 }
 
 .espisode-logo-selector img:nth-child(1) {
