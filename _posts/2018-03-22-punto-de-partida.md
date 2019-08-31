@@ -4,7 +4,7 @@ title:  Punto de partida
 date:   2018-03-22 00:00:00 +0200
 categories:
   - Episodio I
-top-text: Análisis del contexto 1/3
+top-text: Análisis del contexto
 featured-image: /assets/img/20180322-punto-partida-featured.jpg
 excerpt_separator: <!--more-->
 image_sliders:

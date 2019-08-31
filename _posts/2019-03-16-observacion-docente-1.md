@@ -4,7 +4,7 @@ title:  Preparados, cámara y... ¡acción!
 date:   2019-03-16 00:00:00 +0200
 categories:
   - Episodio III
-top-text: Reflexión sobre la práctica docente (2/4)
+top-text: Reflexión sobre la práctica docente
 featured-image: /assets/img/2019-03-16-observacion-docente-1-featured.jpg
 excerpt_separator: <!--more-->
 ---

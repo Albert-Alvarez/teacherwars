@@ -4,7 +4,7 @@ title:  A ver qué podemos mejorar hoy...
 date:   2019-05-06 00:00:00 +0200
 categories:
   - Episodio VI
-top-text: Reflexión sobre la práctica docente (4/4)
+top-text: Reflexión sobre la práctica docente
 featured-image: /assets/img/2019-05-06-observacion-docente-2-featured.jpg
 excerpt_separator: <!--more-->
 ---

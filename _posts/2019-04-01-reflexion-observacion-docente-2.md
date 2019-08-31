@@ -4,7 +4,7 @@ title:  ¿Así suena mi voz?
 date:   2019-04-01 00:00:00 +0200
 categories:
   - Episodio V
-top-text: Reflexión sobre la práctica docente (3/4)
+top-text: Reflexión sobre la práctica docente
 featured-image: /assets/img/2019-04-01-reflexion-observacion-docente-2-featured.jpg
 excerpt_separator: <!--more-->
 ---
