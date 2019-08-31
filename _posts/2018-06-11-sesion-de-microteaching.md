@@ -4,7 +4,7 @@ title:  Sesión de microteaching
 date:   2018-06-11 00:00:00 +0200
 categories:
   - Episodio I
-top-text: Reflexión sobre la práctica docente
+top-text: Reflexión sobre la práctica docente (1/4)
 featured-image: /assets/img/microteaching.jpg
 excerpt_separator: <!--more-->
 ---

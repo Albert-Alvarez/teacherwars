@@ -37,6 +37,7 @@ layout: default
   <div class="row post-content">
     <div class="col-12 text-white">
       {% assign sorted-posts = site.posts | where: "categories",page.category-filter[0] %}
+      {% assign sorted-posts = sorted-posts | sort: 'date' %}
       <div class="post-list content">
         {% for post in sorted-posts %}
           <div class="row">
