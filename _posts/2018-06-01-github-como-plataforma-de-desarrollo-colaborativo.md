@@ -3,8 +3,8 @@ layout: post
 title:  GitHub como plataforma de desarrollo colaborativo
 date:   2018-06-01 00:00:00 +0200
 categories:
-  - Episodio I
-top-text: Innovación docente y uso de las TIC
+  - Episodio VI
+top-text: Propuesta de mejora
 featured-image: /assets/img/20180514_182539_featured.jpg
 excerpt_separator: <!--more-->
 image_sliders:
@@ -100,7 +100,7 @@ Algunos ejemplos de las tareas realizadas por los alumnos:
 
 {% include slider.html selector="muestrasTrabajoAlumnos" %}
 
-Finalmente, una muestra de la consecución del objetivo de aprendizaje por parte de los alumnos haciéndo funcionarl el robot. Este vídeo forma parte de una colección de vídeos creados para la asignatura con la intención de explicar conceptos que no hayan quedado claros en clase y necesiten de más explicación, para tutoriales, guiones de prácticas, etc.
+Finalmente, una muestra de la consecución del objetivo de aprendizaje por parte de los alumnos haciéndo funcionar el robot. Este vídeo forma parte de una colección de vídeos creados para la asignatura con la intención de explicar conceptos que no hayan quedado claros en clase y necesiten de más explicación, para tutoriales, guiones de prácticas, etc. De este modo incluímos en la metodología una pincelada de la modalidad de *b-learning*.
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://youtu.be/lPw9KB3WdAs">What is GitHub?</a></h4><p>Ever wondered how GitHub works? Let's see how Eddie and his team use GitHub.</p></blockquote>
 
@@ -111,3 +111,23 @@ Demostración del robot seguidor de línea a cargo de los alumnos de <abbr title
 #muestrasTrabajoAlumnos, #muestrasTrabajoAlumnos img {max-width:100%;height:auto;}
 </style>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+# La Semana de la Ciéncia como colofón
+
+{: align="center"}
+![Cuenta de organización RoboticsUB]({{ "/assets/img/semana-ciencia.jpg" | absolute_url }}){:style="max-width:600px;height:auto;"}
+
+{:.fig-caption}
+Cartel de la quinta edición de la Semana de la Ciéncia.
+
+Como colofón a todo el trabajo realizado en el proyecto. Los alumnos de ambos grados, de ingeniería electrónica e informática, realizan un taller a modo exposición donde compiten para realizar una serie de objetivos. El taller sirve a los alumnos tanto para desarrollar nuevas habilidades técnicas afrontando nuevos retos, como para trabajar su capacidad comunicativa al tener que adabtar el lenguaje técnico a alumnos de primaria, secundaria y bachillerato que nos visitan durante el taller y vienen con preguntas y dudas suscitadas por su interés por el proyecto.
+
+En el siguiente [enlace](http://www.ub.edu/laubdivulga/festacienciaub/festacienciaV/robots.html){:target="_blank"} podéis encontrar información sobre la actividad desarrollada.
+
+Finalmente, quisiera agradecer su esfuerzo e implicación a los alumnos del Grado de Ingeniería Informática de la Facultad de Matemáticas, su jefe de estudios Dr. Eloi Puertas, a los alumnos del Grado de Ingeniería Electrónica de Telecomunicación de la Facultad de Física, su jefe de estudios Dr. Óscar Ruiz y al Dr. Manel Puig. En especial a este último por la confianza depositada en mi con este proyecto.
+
+{: align="center"}
+![Explicación proyecto]({{ "/assets/img/expansion-vertical.jpg" | absolute_url }}){:style="max-width:100%;height:auto;"}
+
+{:.fig-caption}
+Alumno universitario explicando el proyecto a alumnos de secundaria.
