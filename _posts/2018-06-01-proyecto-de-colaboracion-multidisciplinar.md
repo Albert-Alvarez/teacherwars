@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  GitHub como plataforma de desarrollo colaborativo
+title:  Proyecto de colaboración multidisciplinar
 date:   2018-06-01 00:00:00 +0200
 categories:
   - Episodio VI
@@ -11,7 +11,7 @@ image_sliders:
   - muestrasTrabajoAlumnos
 ---
 
-"Capacidad de trabajo en un equipo multidisciplinar". Esta frase aparece en mil y un planes docentes o planes de estudio de diferentes asignaturas y grados. Pero ¿cuántas veces se trabaja realmente? El problema radica en que necesitas mezclar gente de diferentes disciplinas que normalmente están emplazadas en diferentes localizaciones. Veamos cómo podemos usar GitHub para solventar este problema. 
+"Capacidad de trabajo en un equipo multidisciplinar". Esta frase aparece en mil y un planes docentes o planes de estudio de diferentes asignaturas y grados. Pero ¿cuántas veces se trabaja realmente? El problema radica en que necesitas mezclar gente de diferentes disciplinas que normalmente están emplazadas en diferentes localizaciones.
 
 <!--more-->
 
@@ -19,7 +19,7 @@ image_sliders:
 
 Actualmente, como profesor asociado de la [Universitat de Barcelona (UB)](http://www.ub.edu/){:target="_blank"}, me encargo de impartir teoría y prácticas en la asignatura de [Mecatrónica y Robótica (MNIRT)](http://www.ub.edu/grad/plae/AccesInformePD?curs=2017&codiGiga=362708&idioma=CAT&recurs=publicacio){:target="_blank"} del grado de [Ingeniería Electrónica de Telecomunicaciones (GEET)](http://www.ub.edu/fisica/guia_grau_engelect/){:target="_blank"} y prácticas en la asignatura de [Robótica (RT)](http://www.ub.edu/grad/plae/AccesInformePD?curs=2017&codiGiga=364319&idioma=CAT&recurs=publicacio){:target="_blank"} del grado de [Ingeniería Informática (GEI)](https://mat.ub.edu/grauinformatica/){:target="_blank"}. Ambas son asignaturas optativas de 4º año y en ambas asignaturas, aparte de competencias transversales del propio grado, se trabajan competencias específicas relacionadas con la robótica o el desarrollo de sistemas autónomos.
 
-Por definición, la **mecatrónica consiste en la unión sinérgica de diferentes ramas de la ingeniería** que van desde la ingeniería electrónica a la mecánica, pasando por la ingeniería de control y la de computación. Esta se trabaja en los grados <abbr title="Grado de Ingeniería Electrónica de Telecomunicaciones">GEET</abbr> y <abbr title="Grado de Ingeniería Informátic">GEI</abbr> poniendo el foco en la rama de la ingeniería de los grados respectivos. Así pues, **en el <abbr title="Grado de Ingeniería Electrónica de Telecomunicaciones">GEET</abbr> se trabaja más la vertiente electrónica** de la mecatrónica, mientras que **en el <abbr title="Grado de Ingeniería Informátic">GEI</abbr> se trabaja la vertiente computacional**. Para poder ser competente en mecatrónica, no es necesario ser competente en cada una de las ramas de la ingeniería que la conforman. En su lugar, sí que **es necesario ser capaz de trabajar en equipos multidisciplinares** formados por miembros especializados en cada una de las susodichas ramas. Por ello, la competencia de trabajo en equipos multidisciplinares toma especial relevancia.
+Por definición, la **mecatrónica consiste en la unión sinérgica de diferentes ramas de la ingeniería** que van desde la ingeniería electrónica a la mecánica, pasando por la ingeniería de control y la de computación. Esta se trabaja en los grados <abbr title="Grado de Ingeniería Electrónica de Telecomunicaciones">GEET</abbr> y <abbr title="Grado de Ingeniería Informática">GEI</abbr> poniendo el foco en la rama de la ingeniería de los grados respectivos. Así pues, **en el <abbr title="Grado de Ingeniería Electrónica de Telecomunicaciones">GEET</abbr> se trabaja más la vertiente electrónica** de la mecatrónica, mientras que **en el <abbr title="Grado de Ingeniería Informátic">GEI</abbr> se trabaja la vertiente computacional**. Para poder ser competente en mecatrónica, no es necesario ser competente en cada una de las ramas de la ingeniería que la conforman. En su lugar, sí que **es necesario ser capaz de trabajar en equipos multidisciplinares** formados por miembros especializados en cada una de las susodichas ramas. Por ello, la competencia de trabajo en equipos multidisciplinares toma especial relevancia.
 
 {: align="center"}
 ![Ramas de la mecatrónica]({{ "/assets/img/Meca.svg" | absolute_url }}){:style="max-width:350px;"}
@@ -100,7 +100,7 @@ Algunos ejemplos de las tareas realizadas por los alumnos:
 
 {% include slider.html selector="muestrasTrabajoAlumnos" %}
 
-Finalmente, una muestra de la consecución del objetivo de aprendizaje por parte de los alumnos haciéndo funcionar el robot. Este vídeo forma parte de una colección de vídeos creados para la asignatura con la intención de explicar conceptos que no hayan quedado claros en clase y necesiten de más explicación, para tutoriales, guiones de prácticas, etc. De este modo incluímos en la metodología una pincelada de la modalidad de *b-learning*.
+Finalmente, una muestra de la consecución del objetivo de aprendizaje por parte de los alumnos haciendo funcionar el robot. Este vídeo forma parte de una colección de vídeos creados para la asignatura con la intención de explicar conceptos que no hayan quedado claros en clase y necesiten de más explicación, para tutoriales, guiones de prácticas, etc. De este modo incluímos en la metodología una pincelada de la modalidad de *b-learning*.
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://youtu.be/lPw9KB3WdAs">What is GitHub?</a></h4><p>Ever wondered how GitHub works? Let's see how Eddie and his team use GitHub.</p></blockquote>
 

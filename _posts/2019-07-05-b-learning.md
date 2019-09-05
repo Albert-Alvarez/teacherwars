@@ -9,7 +9,7 @@ featured-image: /assets/img/2019-07-05-b-learning-featured.jpg
 excerpt_separator: <!--more-->
 ---
 
-"*¿Que quieres utilizar una metodología blended learning en clase? ¿Eso que es?*"... "*¿Utilizar vídeos?... ¿Con el ordenador?... Lo siento, pero no puedes hacer eso en clase. No hacemos tutoriales a lo YouTube en la universidad*". Si te ha dicho eso un profesor en la universidad, ¡mándamelo aquí que le explicaremos en qué consiste el *blended learning* o *blearning*!
+"*¿Que quieres utilizar una metodología blended learning en clase? ¿Eso que es?*"... "*¿Utilizar vídeos?... ¿Con el ordenador?... Lo siento, pero no puedes hacer eso en clase. No hacemos tutoriales a lo YouTube en la universidad*". Si te ha dicho eso un profesor en la universidad, ¡mándamelo aquí que le explicaremos en qué consiste el *blended learning* o *b-learning*!
 
 <!--more-->
 
@@ -19,9 +19,10 @@ Fruto de la colaboración grupal de los miembros del máster durante el taller s
 
 "*El **blended learning** o **B-Learning** es una **estrategia formal de educación** en el que el alumno/a, en su proceso de aprendizaje, **combina encuentros asincrónicos** (e-learning) con **clases/actividades presenciales** (encuentros sincrónicos, si bien, los encuentros en línea pudieran también realizarse de manera sincrónica), combinando las ventajas de ambos tipos de aprendizajes. Este tipo de estrategia facilita un proceso de aprendizaje de "doble mirada" en el que el **estudiante sea el centro de su aprendizaje**, a través de la **mediación de un guía** (el docente) y de un **proceso** personalizado, flexible y fomentador de la participación que **aumenta el rendimiento** y la **fijación de los contenidos** por parte del alumno e implica utilizar nuevos recursos tecnológicos y de comunicación.*"
 
-Dentro del b-learning existen diferentes modelos que recogen la siguiente infografía interactiva creada por la Dra Ana María Berruecos Vila.
+Dentro del b-learning existen diferentes modelos que recoge la siguiente infografía interactiva creada por la Dra. Ana María Berruecos Vila.
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5cb5e6707e2ed90f76e5ee4b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
 
 
 ## Qué NO es el b-learning
@@ -44,11 +45,11 @@ El profesor, de por sí, debe de poseer una serie de competencias en el ámbito 
 
 Si eres de los que les cuesta una barbaridad compartir correctamente una carpeta del NúvolUB: tienes un problema. Pero puedes echarle un ojo a [esta página web](http://aprende.intef.es/){:target="_blank"} del ministerio que encontré durante mi investigación sobre el b-learning.
 
-¡Y ojo! Puedes saber hacer contenido multimedia al nivel de Steven Spielberg o programas de software de aprendizaje a lo Microsoft, pero si no tienes fuertemente afianzadas la competencias ligadas a la docencia per se, tampoco podrás llevar cabo está modalidad. Al crear contenido o recursos digitales debes de hacerlo estableciendo qué resultados del aprendizaje esperas, cómo se adabtan estos contenidos recursos a la planificación de la asignatura, como influye en la evaluación, etc. **Tener competencias digitales es una condición necesaria, pero no suficiente.**
+¡Y ojo! Puedes saber hacer contenido multimedia al nivel de Steven Spielberg o programas de software de aprendizaje a lo Microsoft, pero si no tienes fuertemente afianzadas la competencias ligadas a la docencia per se, tampoco podrás llevar cabo está modalidad. Al crear contenido o recursos digitales debes de hacerlo estableciendo qué resultados del aprendizaje esperas, cómo se adaptan estos contenidos recursos a la planificación de la asignatura, cómo influye en la evaluación, etc. **Tener competencias digitales es una condición necesaria, pero no suficiente.**
 
 ## ¿Tú has utilizado el b-learning?
 
-Al ser algo *"novedoso"* o poco usual, es dificil que de primeras te dejen hacer una asignatura en modalidad de b-learning. Aún más si se tiene en cuenta nuestro rol de *"noveles"*. Pese a ello, en mis clases he podido implementar pequeñas pinceladas de esta modalidad realizando pequeños montajes audiovisuales que han permitido a los alumnos ampliar o repasar en casa el contenido visto en clase. Uno de esos vídeos lo utilicé como muestra durante el taller sobre el uso de las TIC. Cabe destacar que recibí muy buena opinión de los estudiantes al percibir estos vídeos como una ayuda extra que les permitía ampliar y repasar lo visto en clase con las ventajas de estar siempre disponible, tener la flexibilidad de visualizarlo cuando uno quiere/puede, poder volver atrás para volver a visualizar algo que no haya quedado claro, etc. Además, los vídeos ofrecían ejemplos prácticos que ayudan al alumnos a tener una guía visual para habilidades y destrezas que debían de aprender.
+Al ser algo *"novedoso"* o poco usual, es difícil que de primeras te dejen hacer una asignatura en modalidad de b-learning. Aún más si se tiene en cuenta nuestro rol de *"noveles"*. Pese a ello, en mis clases he podido implementar pequeñas pinceladas de esta modalidad realizando pequeños montajes audiovisuales que han permitido a los alumnos ampliar o repasar en casa el contenido visto en clase. Uno de esos vídeos lo utilicé como muestra durante el taller sobre el uso de las TIC. Cabe destacar que recibí muy buena opinión de los estudiantes al percibir estos vídeos como una ayuda extra que les permitía ampliar y repasar lo visto en clase con las ventajas de estar siempre disponible, tener la flexibilidad de visualizarlo cuando uno quiere/puede, poder volver atrás para volver a visualizar algo que no haya quedado claro, etc. Además, los vídeos ofrecían ejemplos prácticos que ayudan al alumnos a tener una guía visual para habilidades y destrezas que debían de aprender.
 
 Pese a ello, como veréis, hay muchas cosas a mejorar como, por ejemplo, la duración del vídeo. La muestra que expongo tiene una duración de 30 minutos. Una absoluta salvajada teniendo en cuenta que la recomendación es no superar los 10 minutos de vídeo. Si es necesario, se debe de partir el vídeo en diferentes partes.
 

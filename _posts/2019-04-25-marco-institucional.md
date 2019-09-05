@@ -15,9 +15,9 @@ excerpt_separator: <!--more-->
 
 ## La Universitat de Barcelona (UB)
 
-Mientras que la actividad de la UB se remonta hasta el año 1300, no es hasta el [1450 cuando se reconoce su inicio](http://www.ub.edu/comint/evaluation/informe.pdf){:target="_blank"}. Es en 1450 cuando el rei Alfonso el Nagnánimo impulsa la creación del Estudio General de Barcelona al que incorporó las cátedras de Teología, Derecho Canónico y Civil, Medicina, y Filosofía y Artes.
+Mientras que la actividad de la UB se remonta hasta el año 1300, no es hasta el [1450 cuando se reconoce su inicio](http://www.ub.edu/comint/evaluation/informe.pdf){:target="_blank"}. Es en 1450 cuando el rey Alfonso el Nagnánimo impulsa la creación del Estudio General de Barcelona al que incorporó las cátedras de Teología, Derecho Canónico y Civil, Medicina, y Filosofía y Artes.
 
-En [1933 se promulgó el primer Estatuto de Autonomía](http://www.ub.edu/comint/evaluation/informe.pdf){:target="_blank"} de una universidad española. Este estatuto recogía tanto la regulación/criterios de la selección del profesorado, la regulación del profesorado no perteneciente a los cuerpos estatales, la incorporación de los alumnos a los órganos de gobierno y la renovación de planes de estudios, entre otros.
+En [1933 se promulgó el primer Estatuto de Autonomía](http://www.ub.edu/comint/evaluation/informe.pdf){:target="_blank"} de una universidad española. Este estatuto recogía la regulación/criterios de la selección del profesorado, la regulación del profesorado no perteneciente a los cuerpos estatales, la incorporación de los alumnos a los órganos de gobierno y la renovación de planes de estudios, entre otros.
 
 La UB ha estado la única universidad en Catalunya hasta el año 1968, en el que se crea la Universitat Autònoma de Barcelona.
 
@@ -29,7 +29,7 @@ Edificio de la Universitat de Barcelona en construcción. Al fondo, los primeros
 
 La UB ha crecido hasta actualmente desplegar [seis campus a lo largo de toda Barcelona](https://www.ub.edu/web/ub/ca/universitat/campus_fac_dep/campus/campus.html){:target="_blank"}. Los seis campus abarcan más de 500.000 m<sup>2</sup> en los que se distribuyen sus [16 facultades](https://www.ub.edu/web/ub/ca/universitat/campus_fac_dep/facultats_escoles/facultats.html){:target="_blank"}. En esas 16 facultades, a día de hoy, [más de 80.000 alumnos de grado y post-grado](http://www.ub.edu/gtr/publicacions/mem1718/ca/mem1718/dades_basiques/resum_dades/Evolucio.html){:target="_blank"} cursan sus estudios y disfrutan de la oferta formativa más extensa de Cataluña. Esta oferta formativa está formada por un total de [73 grados](https://www.ub.edu/web/ub/ca/universitat/la_ub_avui/xifres_sobre_la_ub/xifres_sobre_la_ub.html){:target="_blank"}, [153 másters universitarios](https://www.ub.edu/web/ub/ca/universitat/la_ub_avui/xifres_sobre_la_ub/xifres_sobre_la_ub.html){:target="_blank"} y [48 programas de doctorado](https://www.ub.edu/web/ub/ca/universitat/la_ub_avui/xifres_sobre_la_ub/xifres_sobre_la_ub.html){:target="_blank"}, entre otras modalidades de estudio.
 
-Actualmente, después de la [reducción de departamentos en la UB aprobada en la reunión extraordinaria del Consejo de Gobierno de la UB el 27 de enero de 2016](https://www.ub.edu/web/ub/ca/menu_eines/noticies/2016/01/037.html){:target="_blank"}, la UB dispone de 60 departamentos y una unidad de formación e investigación. Antes de la reestructuración, la UB contaba con 106 departamentos.
+Actualmente, después de la [reducción de departamentos aprobada en la reunión extraordinaria del Consejo de Gobierno de la UB el 27 de enero de 2016](https://www.ub.edu/web/ub/ca/menu_eines/noticies/2016/01/037.html){:target="_blank"}, la UB dispone de 60 departamentos y una unidad de formación e investigación. Antes de la reestructuración, la UB contaba con 106 departamentos.
 
 La trayectoria de la UB (su historia), su estructura, su oferta formativa y los miembros de su comunidad universitaria, han logrado que, actualmente, la Universitat de Barcelona se situe como la [mejor universidad española según el Academic Ranking of World Universities (ARWU)](https://www.ub.edu/web/ub/es/universitat/la_ub_avui/ranquings/){:target="_blank"} y [entre las 200 mejores universidades del mundo](https://www.ub.edu/web/ub/es/universitat/la_ub_avui/ranquings/){:target="_blank"}.
 
@@ -50,7 +50,7 @@ En 2006, se amplió el edificio de Física i Química (que no la *Facultad* de F
 {:.fig-caption}
 Patio de la Facultad de Física.
 
-Mientras que la enseñanza de Física ha sido mayoritaria en la Facultad, en 1992 de inicio la enseñanza de segundo ciclo de Ingeniería Electrónica (¡Yo iba a esa enseñanza antes de pasarme a grado! Qué tiempo aquellos...). Con el Plan Bolonia, se convirtieron las enseñanzas a grados y se añadieron de nuevos siendo la actual oferta:
+Mientras que la enseñanza de Física ha sido mayoritaria en la Facultad, en 1992 da inicio la enseñanza de segundo ciclo de Ingeniería Electrónica (¡Yo iba a esa enseñanza antes de pasarme a grado! Qué tiempos aquellos...). Con el Plan Bolonia, se convirtieron las enseñanzas a grados y se añadieron de nuevos siendo la actual oferta:
 
 - Grado de Física
 - Grado de Ingeniería Electrónica de Telecomunicación
@@ -93,7 +93,7 @@ Sus principales lineas de investigación son:
 - Diseño de dispositivos y estructuras para el desarrollo y gestión de sistema de instrumentación para aplicaciones biomédicas
 - Diseño de dispositivos y estructuras para el desarrollo y gestión de sistema de instrumentación para energías renovables y sostenibles
 
-El desarrollo de estas líneas de investigación es llevado a cabo por lo siguientes grupos de investigación, reconocidos en las convocatorias de grupo SGR de la Generalitat de Catalunya:
+El desarrollo de estas líneas de investigación es llevado a cabo por los siguientes grupos de investigación, reconocidos en las convocatorias de grupo SGR de la Generalitat de Catalunya:
 
 - SIC-BIO: Bioelectrónica y Nanobioingeniería
 - SIC: Sistemes d'instrumentació i Comunicacions
@@ -105,7 +105,7 @@ El desarrollo de estas líneas de investigación es llevado a cabo por lo siguie
   <div id="player"></div>
 </div>
 
-El Departamento recibe su primer encargo a principios de los 90 en la licenciatura de física en el ámbito de fundamentos físicos de materiales y dispositivos electrónicos. A raíz de los hitos logrados durante esta etapa inicial, el Departamento ha ido creciendo a consecuencia del incremento del encargo docente que se ha materializado en la impartición de docencia sobre el ámbito de investigación del Departament en otras facultades y en nuevos grados, másters y doctorados. Actualmente, el Departamento imparte docencia en:
+El Departamento recibe su primer encargo docente a principios de los 90 en la licenciatura de física en el ámbito de fundamentos físicos de materiales y dispositivos electrónicos. A raíz de los hitos logrados durante esta etapa inicial, el Departamento ha ido creciendo a consecuencia del incremento del encargo docente que se ha materializado en la impartición de docencia sobre el ámbito de investigación del Departamento en otras facultades y en nuevos grados, másters y doctorados. Actualmente, el Departamento imparte docencia en:
 
 - Grado de Ingeniería Electrónica de Telecomunicación
 - Grado de Ingeniería Biomédica
@@ -122,12 +122,14 @@ El Departamento recibe su primer encargo a principios de los 90 en la licenciatu
 - Doctorado en Nanociencias
 - Doctorado en Ingenierías y Ciencias Aplicadas
 
-El Departamento hace una apuesta clara por la consecución de nuevos hitos en innovación docente. Dentro del proceso de convergéncia hacía el Espacio Europeo de Educación Superior, el Departamento plantea una docencia centrada en el aprendizaje, el trabajo del estudiante, en el impulso a la semipresencialidad y, en mi caso, a modo de pequeño proyecto, trabajo en equipos multidisciplinarios. De esa apuesta, nacen dos grupos de innovación docente consolidados:
+El Departamento hace una apuesta clara por la consecución de nuevos hitos en innovación docente. Dentro del proceso de convergéncia hacia el Espacio Europeo de Educación Superior, el Departamento plantea una docencia centrada en el aprendizaje, el trabajo del estudiante, en el impulso a la semipresencialidad y, en mi caso, a modo de pequeño proyecto, trabajo en equipos multidisciplinarios. De esa apuesta, nacen dos grupos de innovación docente consolidados:
 
 - **e-Lindo:** Electrònica i Innovació Docent
 - **Idees:** Innovació Docent en Ensenyaments d'Enginyeries.
 
-Para acabar, os dejo un video de hace años (algun profesor que se vea seguramente echará alguna lagrimilla...) donde se ve como el Departamento de Ingeniería Electrónica y Biomédica tenía ya en mente y edtba comprometido con convergéncia hacía el Espacio Europeo de Educación Superior desde sus inicios.
+Yo formo parte del grupo de innovación docente IDEES.
+
+Para acabar, os dejo un video de hace años (algún profesor que se vea seguramente echará alguna lagrimilla...) donde se ve como el Departamento de Ingeniería Electrónica y Biomédica tenía ya en mente y estaba comprometido con la convergéncia hacía el Espacio Europeo de Educación Superior desde sus inicios.
 
 <div class="player-container-2">
   <div id="player2"></div>
